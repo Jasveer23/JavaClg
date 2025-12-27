@@ -16,17 +16,22 @@ class Main{
 //        System.out.println("Hello");
 //        System.out.println("KAISA HAI ANISH");
 
-        System.out.println(3*2);
-        int num1=3;
-        System.out.println(num1*2);
-        int res = num1*2;
-        int amt = 10000;
-        float it=amt*0.05f;
-        System.out.println(it);
+//        System.out.println(3*2);
+//        int num1=3;
+//        System.out.println(num1*2);
+//        int res = num1*2;
+//        int amt = 10000;
+//        float it=amt*0.05f;
+//        System.out.println(it);
 
+        int num1=6;
+        int num2=7;
+       double div = num1/num2;
+       int res =7/3;
+       float res2 = 7.0f/3;
+        System.out.println(7/3);
 
-
-
+        System.out.println(7.0f/3);
 
 
     }
